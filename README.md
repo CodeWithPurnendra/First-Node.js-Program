@@ -179,7 +179,7 @@ to write the calculation results into `calculation.txt`.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nodejs-commonjs-calculator.git
+git clone https://github.com/CodeWithPurnendra/First-Node.js-Program.git
 ```
 
 ### 2. Navigate into the project
