@@ -1,4 +1,4 @@
-# 🧮 Node.js Math Utilities – CommonJS
+# 🧮 Node.js Math Utilities – CommonJS.
 
 A beginner-friendly **Node.js project** created to practice the **CommonJS module system**. The project separates basic mathematical operations into a reusable module and uses Node.js core modules to save calculation results to a text file.
 
